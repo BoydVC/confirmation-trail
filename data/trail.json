@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Confirmation Trail",
+    "family": "Boyd",
+    "parishNote": "Parish dates and program details come from the family — not scraped calendars. Keep content generic and respectful.",
+    "knownFacts": [
+      "Charlotte (Char) — summer confirmation; attends St. John the Evangelist (SJE).",
+      "Victor (Vic) — signed for Spring 2027 confirmation (#D5XC8).",
+      "Countdown to ~May 2027 is approximate; exact Mass date is set by the parish."
+    ]
+  },
+  "kids": [
+    {
+      "id": "char",
+      "name": "Charlotte",
+      "short": "Char",
+      "parish": "St. John the Evangelist (SJE)",
+      "track": "Summer confirmation",
+      "status": "summer",
+      "statusLabel": "Summer confirmation (family-tracked)",
+      "statusNote": "Shell for Char’s summer confirmation journey. Do not invent parish grades or certificate dates — fill milestones as the family confirms them.",
+      "milestones": [
+        {"id": "c1", "title": "Enrollment / intent", "note": "Family marked summer confirmation path", "doneDefault": true},
+        {"id": "c2", "title": "Formation sessions", "note": "Attend parish formation as scheduled", "doneDefault": true},
+        {"id": "c3", "title": "Sponsor identified", "note": "Sponsor chosen with family", "doneDefault": false},
+        {"id": "c4", "title": "Retreat / practice (if required)", "note": "Only if parish asks — mark when complete", "doneDefault": false},
+        {"id": "c5", "title": "Confirmation Mass", "note": "Date from parish / family — not invented here", "doneDefault": false},
+        {"id": "c6", "title": "Thank-you & follow-up", "note": "Sponsor note, photos, parish thank-you", "doneDefault": false}
+      ]
+    },
+    {
+      "id": "vic",
+      "name": "Victor",
+      "short": "Vic",
+      "parish": "Parish program (family notes)",
+      "track": "Spring 2027",
+      "status": "spring2027",
+      "statusLabel": "Spring 2027 · #D5XC8",
+      "registrationId": "D5XC8",
+      "countdownApprox": "2027-05-15",
+      "countdownLabel": "Approximate Spring 2027 window (~May 2027)",
+      "statusNote": "Vic is signed for Spring 2027 confirmation (#D5XC8). Countdown uses an approximate mid-May 2027 marker — exact Mass date comes from the parish.",
+      "milestones": [
+        {"id": "v1", "title": "Registration on file", "note": "#D5XC8 signed for Spring 2027", "doneDefault": true},
+        {"id": "v2", "title": "Year of formation", "note": "Catechesis / class rhythm as parish assigns", "doneDefault": false},
+        {"id": "v3", "title": "Sponsor & saint name", "note": "Choose with family guidance", "doneDefault": false},
+        {"id": "v4", "title": "Service / community hours", "note": "If parish requires — track gently", "doneDefault": false},
+        {"id": "v5", "title": "Interview / readiness", "note": "When parish schedules", "doneDefault": false},
+        {"id": "v6", "title": "Confirmation Mass (Spring 2027)", "note": "Approximate May 2027 — confirm with parish", "doneDefault": false}
+      ]
+    }
+  ],
+  "checklist": {
+    "label": "EXAMPLE catechism study checklist",
+    "disclaimer": "Generic Catholic confirmation topics for home study. Not an official parish syllabus. Progress saves in localStorage on this device.",
+    "items": [
+      {"id": "x1", "topic": "The Holy Trinity", "hint": "Father, Son, Holy Spirit — one God"},
+      {"id": "x2", "topic": "Who is Jesus Christ?", "hint": "True God and true man; Paschal Mystery"},
+      {"id": "x3", "topic": "The Holy Spirit", "hint": "Gifts and fruits; Confirmation’s seal"},
+      {"id": "x4", "topic": "The Church", "hint": "One, holy, catholic, apostolic"},
+      {"id": "x5", "topic": "Baptism & Confirmation", "hint": "Sacraments of initiation"},
+      {"id": "x6", "topic": "Eucharist", "hint": "Source and summit; Real Presence"},
+      {"id": "x7", "topic": "Reconciliation", "hint": "Mercy, examination of conscience"},
+      {"id": "x8", "topic": "The Mass", "hint": "Liturgy of the Word & Eucharist"},
+      {"id": "x9", "topic": "Prayer", "hint": "Our Father, Hail Mary, Glory Be; personal prayer"},
+      {"id": "x10", "topic": "Scripture basics", "hint": "Old & New Testament; Gospels"},
+      {"id": "x11", "topic": "Ten Commandments", "hint": "Love of God and neighbor"},
+      {"id": "x12", "topic": "Beatitudes & moral life", "hint": "Discipleship day to day"},
+      {"id": "x13", "topic": "Mary & the saints", "hint": "Intercession; choosing a Confirmation name"},
+      {"id": "x14", "topic": "Sponsor’s role", "hint": "Witness, prayer, ongoing accompaniment"},
+      {"id": "x15", "topic": "Living the sacrament", "hint": "Service, parish life, courage in faith"}
+    ]
+  }
+}
