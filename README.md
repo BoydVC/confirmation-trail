@@ -1,20 +1,20 @@
 # Confirmation Trail
 
-Confirmation journey board for **Char** and **Vic** — milestones, EXAMPLE catechism study checklist, and Spring 2027 countdown for Vic (`#D5XC8`). Calm liturgical purple/gold. TokenMax burn build.
+Confirmation journey board for **Alex** and **Sam** — milestones, EXAMPLE catechism study checklist, and Spring 2027 countdown for Sam (`#D5XC8`). Calm liturgical purple/gold. TokenMax burn build.
 
 ## Known facts (family)
 
-- Charlotte (Char) — summer confirmation; attends St. John the Evangelist (SJE).  
-- Victor (Vic) — signed for Spring 2027 confirmation (#D5XC8).  
+- Alex (Alex) — summer confirmation; attends St. John the Evangelist (Northside Academy).  
+- Samuel (Sam) — signed for Spring 2027 confirmation (#D5XC8).  
 - Countdown to ~May 2027 is **approximate**; exact Mass date comes from the parish.  
 
 Parish dates are **not** scraped. No fake certificates. No invented parish grades.
 
 ## Screens
 
-1. **Trails** — both kids + Vic countdown overview  
-2. **Char** — summer confirmation milestone shell  
-3. **Vic** — Spring 2027 #D5XC8 + approximate countdown  
+1. **Trails** — both kids + Sam countdown overview  
+2. **Alex** — summer confirmation milestone shell  
+3. **Sam** — Spring 2027 #D5XC8 + approximate countdown  
 4. **Checklist** — EXAMPLE generic Catholic confirmation topics (localStorage)  
 5. **About** — facts, export / reset  
 
