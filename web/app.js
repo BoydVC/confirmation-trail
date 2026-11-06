@@ -188,9 +188,9 @@
       heroCd = c.past
         ? ""
         : `<div class="panel">
-            <p class="eyebrow">Sam · Spring 2027</p>
+            <p class="eyebrow">Jo · Spring 2027</p>
             <h2 class="view-title">~${c.days} days to approximate May 2027</h2>
-            <p class="lede">Registration <span class="badge">#${escapeHtml(vic.registrationId || "D5XC8")}</span> · exact Mass date from parish / family.</p>
+            <p class="lede">Registration <span class="badge">#${escapeHtml(vic.registrationId || "A7K2M")}</span> · exact Mass date from parish / family.</p>
             <div class="countdown">
               <div class="cd-chip"><div class="n">${c.days}</div><div class="l">days</div></div>
               <div class="cd-chip"><div class="n">${c.weeks}</div><div class="l">weeks</div></div>
@@ -203,7 +203,7 @@
       ${heroCd}
       <div class="panel">
         <h2 class="view-title">Both trails</h2>
-        <p class="lede">Alex’s summer confirmation shell and Sam’s Spring 2027 path. Parish details stay generic unless the family adds them.</p>
+        <p class="lede">Ri’s summer confirmation shell and Jo’s Spring 2027 path. Parish details stay generic unless the family adds them.</p>
         <div class="trail-grid">${cards}</div>
       </div>`;
 
@@ -271,8 +271,8 @@
     if (vic && vic.countdownApprox) {
       const c = countdownParts(vic.countdownApprox);
       $("#vicPill").textContent = c.past
-        ? "Sam · Spring 2027"
-        : `Sam · ~${c.days}d · #${vic.registrationId || "D5XC8"}`;
+        ? "Jo · Spring 2027"
+        : `Jo · ~${c.days}d · #${vic.registrationId || "A7K2M"}`;
     }
   }
 
