@@ -4,7 +4,7 @@ Confirmation journey board for **Ri** and **Jo** — milestones, EXAMPLE catechi
 
 ## Known facts (family)
 
-- Riley (Ri) — summer confirmation; attends Lakeside Parish (Lakeside Parish).  
+- Riley (Ri) — summer confirmation; attends St. John the Evangelist (SJE).  
 - Jordan (Jo) — signed for Spring 2027 confirmation (#A7K2M).  
 - Countdown to ~May 2027 is **approximate**; exact Mass date comes from the parish.  
 
